@@ -1,0 +1,32 @@
+[
+ {
+  "role": "craft",
+  "facets": 4,
+  "subtype": "success",
+  "count": 2
+ },
+ {
+  "role": "craft",
+  "facets": 4,
+  "subtype": "failure",
+  "count": 1
+ },
+ {
+  "role": "craft",
+  "facets": 4,
+  "subtype": "critical failure",
+  "count": 1
+ },
+ {
+  "role": "fight",
+  "facets": 4,
+  "subtype": "miss",
+  "count": 2
+ },
+ {
+  "role": "fight",
+  "facets": 4,
+  "subtype": "bronze",
+  "count": 2
+ }
+]

@@ -1,0 +1,96 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1706794367
+::res://asset/::1706791750
+default_env.tres::Environment::-1::1690116911::0::1::::<><>::
+icon.png::CompressedTexture2D::2432420761471245026::1690116911::1690116911::1::::<><>::
+icon.svg::CompressedTexture2D::9162371498834860976::1690116911::1690116911::1::::<><>::
+README.md::TextFile::-1::1690795285::0::1::::<><>::
+::res://asset/font/::1706791750
+::res://asset/font/digital/::1706791750
+Cilok There.otf::FontFile::5203477456367898423::1692120832::1693215257::1::::<><>::
+Montserrat-Regular.ttf::FontFile::8955316622152098618::1390883084::1693215257::1::::<><>::
+SwilyBright-Italic.otf::FontFile::4711532664557462683::1689611680::1693215257::1::::<><>::
+::res://asset/font/letter/::1706791750
+Chunk Five Print.otf::FontFile::7482982434189746187::1693025532::1693215257::1::::<><>::
+JosefinSans-Bold.ttf::FontFile::3888160851700023909::1693025548::1693215257::1::::<><>::
+LeagueGothic-Regular.otf::FontFile::2105460648084705691::1693025542::1693215257::1::::<><>::
+::res://asset/json/::1706795348
+pakitara_dice.json::JSON::-1::1706795348::0::1::::<><>::
+::res://asset/png/::1706793320
+::res://asset/png/banner/::1706791750
+external down.png::CompressedTexture2D::2765104824397161998::1706409313::1706409539::1::::<><>::
+external left.png::CompressedTexture2D::4161355496859049649::1706409340::1706409539::1::::<><>::
+external right.png::CompressedTexture2D::6994994493970468368::1706409440::1706409539::1::::<><>::
+external up.png::CompressedTexture2D::5397150801327290159::1706409325::1706409539::1::::<><>::
+internal down.png::CompressedTexture2D::4579653332821372895::1706409207::1706409539::1::::<><>::
+internal left.png::CompressedTexture2D::6445060045319742922::1706409217::1706409539::1::::<><>::
+internal right.png::CompressedTexture2D::4670426688353791791::1706409232::1706409539::1::::<><>::
+internal up.png::CompressedTexture2D::7311913176156023305::1706409212::1706409539::1::::<><>::
+::res://asset/png/creed/::1706793468
+assault.png::CompressedTexture2D::2449678106388196761::1706792512::1706793468::1::::<><>::
+defense.png::CompressedTexture2D::7131210962809856688::1706792425::1706793468::1::::<><>::
+extraction.png::CompressedTexture2D::5620107255607352736::1706792486::1706793468::1::::<><>::
+synthesis.png::CompressedTexture2D::3942732268185485018::1706792524::1706793468::1::::<><>::
+::res://asset/png/element/::1706791750
+aqua.png::CompressedTexture2D::4257633856903828534::1697502012::1706326836::1::::<><>::
+earth.png::CompressedTexture2D::4033577752421538743::1697501453::1706326836::1::::<><>::
+fire.png::CompressedTexture2D::2869407205795216017::1697501355::1706326836::1::::<><>::
+identical.png::CompressedTexture2D::4293017183594291637::1697501997::1706515603::1::::<><>::
+wind.png::CompressedTexture2D::5565121902282821382::1697501549::1706326836::1::::<><>::
+::res://asset/png/interaction/::1706791750
+advancement.png::CompressedTexture2D::5865243332643616473::1706508333::1706508812::1::::<><>::
+amalgamation.png::CompressedTexture2D::4147838643961429861::1706508253::1706508812::1::::<><>::
+ascension.png::CompressedTexture2D::4549338376335277006::1706508730::1706508812::1::::<><>::
+conjugation.png::CompressedTexture2D::3024769340360107163::1706508243::1706508812::1::::<><>::
+degradation.png::CompressedTexture2D::7818694241712128056::1706508451::1706508812::1::::<><>::
+downfall.png::CompressedTexture2D::6489851957137285628::1706508596::1706508812::1::::<><>::
+evolution.png::CompressedTexture2D::3740564508122599875::1706508310::1706508812::1::::<><>::
+fragmentation.png::CompressedTexture2D::4125599479545797510::1706508320::1706508812::1::::<><>::
+reflection.png::CompressedTexture2D::4000006340395800850::1706508354::1706508812::1::::<><>::
+regression.png::CompressedTexture2D::7813236717702008441::1706508306::1706508812::1::::<><>::
+reincarnation.png::CompressedTexture2D::1144216580842696462::1706508265::1706508812::1::::<><>::
+::res://asset/png/outcome/::1706793468
+critical failure.png::CompressedTexture2D::3886133179531911227::1706792745::1706793468::1::::<><>::
+critical success.png::CompressedTexture2D::1137124938112821942::1706793106::1706793468::1::::<><>::
+failure.png::CompressedTexture2D::7280762302535823683::1706792742::1706793468::1::::<><>::
+success old.png::CompressedTexture2D::3582193542087100346::1706793245::1706793468::1::::<><>::
+success.png::CompressedTexture2D::5389446010733848817::1706792948::1706793468::1::::<><>::
+::res://asset/png/quality/::1706796047
+bronze.png::CompressedTexture2D::6325155088121970715::1706415457::1706415663::1::::<><>::
+gold.png::CompressedTexture2D::1992467280868733681::1706415583::1706418712::1::::<><>::
+miss.png::CompressedTexture2D::1637118390463095215::1706793279::1706793468::1::::<><>::
+platinum.png::CompressedTexture2D::647609415236674455::1706415628::1706415663::1::::<><>::
+silver.png::CompressedTexture2D::8943542769094353620::1706796045::1706796048::1::::<><>::
+::res://scene/::1706791750
+::res://scene/0/::1706791864
+blank.tscn::PackedScene::706186300528003691::1703260393::0::1::::<><>::
+game.gd::GDScript::-1::1706509802::0::1::::<>Node<>::
+game.tscn::PackedScene::8246655032211948728::1699765042::0::1::::<><>::res://scene/0/game.gd<>uid://c8p8p11wpyu27
+icon.gd::GDScript::-1::1706515040::0::1::::<>MarginContainer<>::
+icon.tscn::PackedScene::4229994606520776802::1706513268::0::1::::<><>::res://scene/0/icon.gd<>uid://deu2vlj4q8un0::::res://asset/font/letter/Chunk Five Print.otf
+sketch.gd::GDScript::-1::1706791864::0::1::::<>MarginContainer<>::
+sketch.tscn::PackedScene::7122070728214644470::1706791864::0::1::::<><>::res://scene/0/sketch.gd<>uid://tiu625irnnwp::::res://scene/1/cradle.tscn
+::res://scene/1/::1706795916
+church.gd::GDScript::-1::1706794081::0::1::::<>MarginContainer<>::
+church.tscn::PackedScene::6628520103918968447::1706794321::0::1::::<><>::res://scene/1/church.gd
+cradle.gd::GDScript::-1::1706794134::0::1::::<>MarginContainer<>::
+cradle.tscn::PackedScene::1351374215482788775::1706794193::0::1::::<><>::res://scene/1/cradle.gd
+priest.gd::GDScript::-1::1706794699::0::1::::<>MarginContainer<>::
+priest.tscn::PackedScene::4610960895289747470::1706795916::0::1::::<><>::res://scene/1/priest.gd<>uid://di2ttl63u73q1::::res://scene/3/cloak.tscn<>uid://dxmnh0dul7103::::res://scene/4/pool.tscn
+::res://scene/2/::1706791800
+::res://scene/3/::1706795916
+amulet.gd::GDScript::-1::1706795749::0::1::::<>MarginContainer<>::
+amulet.tscn::PackedScene::6457211640701731024::1706795916::0::1::::<><>::res://scene/3/amulet.gd<>uid://b1jbnmq0el07g::::res://scene/0/icon.tscn
+cloak.gd::GDScript::-1::1706795884::0::1::::<>MarginContainer<>::
+cloak.tscn::PackedScene::7777699179435929770::1706795916::0::1::::<><>::res://scene/3/cloak.gd
+::res://scene/4/::1706795800
+dice.gd::GDScript::-1::1706795528::0::1::::<>MarginContainer<>::
+dice.tscn::PackedScene::8867107619945943476::1706512481::0::1::::<><>::res://scene/4/dice.gd
+facet.gd::GDScript::-1::1706795800::0::1::::<>MarginContainer<>::
+facet.tscn::PackedScene::1376893502277098245::1706512481::0::1::::<><>::res://scene/4/facet.gd<>res://scene/0/icon.tscn
+pool.gd::GDScript::-1::1706795561::0::1::::<>MarginContainer<>::
+pool.tscn::PackedScene::8799181127908927302::1706512481::0::1::::<><>::res://scene/4/pool.gd
+::res://scene/5/::1706407366
+::res://scene/6/::1706407372
+::res://script/::1706795769
+Global.gd::GDScript::-1::1706795769::0::1::::<>Node<>::
